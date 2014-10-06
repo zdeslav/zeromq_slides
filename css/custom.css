@@ -1,0 +1,11 @@
+.reveal img.plain {
+    border-width: 0;
+    box-shadow:0 0 0px;
+    background:none;
+}
+
+.reveal p.note
+{
+    font-style: italic;
+    font-size: smaller;
+}
